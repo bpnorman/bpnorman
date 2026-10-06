@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Blake
 
-<!--
-**bpnorman/bpnorman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I run e-commerce and DTC for consumer brands, and I like building the systems behind them myself.
 
-Here are some ideas to get you started:
+Most of my work lives in private repos, so the activity graph tells more of the story than the repo list does.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I work on
+
+- **Storefronts:** Shopify builds, Liquid theme work, and POS migrations (most recently Square to Shopify)
+- **Lifecycle:** Klaviyo flows, segmentation, and re-engagement for lists that have gone quiet
+- **Operations:** connecting retail, fulfillment, and online so a small team can run all three
+- **Automation:** AI-assisted workflows that take the repetitive work off people's plates
+
+## Outside of work
+
+Home Assistant tinkering and the occasional DIY fix.
+
+## Say hello
+
+[LinkedIn](https://www.linkedin.com/in/YOUR-HANDLE)
