@@ -6,7 +6,7 @@ Most of my work lives in private repos, so the activity graph tells more of the 
 
 ## What I work on
 
-- **Storefronts:** Shopify builds, Liquid theme work, and POS migrations (most recently Square to Shopify)
+- **Storefronts:** Shopify builds and apps, Liquid theme work, and POS migrations (most recently Square to Shopify)
 - **Lifecycle:** Klaviyo flows, segmentation, and re-engagement for lists that have gone quiet
 - **Operations:** connecting retail, fulfillment, and online so a small team can run all three
 - **Automation:** AI-assisted workflows that take the repetitive work off people's plates
